@@ -46,8 +46,7 @@ Some of the core calculated measures include:
 2. **Sales Trend Analysis** – Monthly/quarterly breakdowns with line and area charts
 3. **Product Performance** – Drill-downs by product and category
 4. **Customer Insights** – Segmentation by region, behavior, or volume
-5. **Geographic View** – Sales by state or country via map visualizations
-6. **Profitability** – Margins, cost comparisons, and discounts
+5. **Profitability** – Margins, cost comparisons, and discounts
 
 ## 🛠 Tools & Technologies
 
@@ -71,7 +70,7 @@ Some of the core calculated measures include:
 ## 🧑‍💻 Author
 
 **Poojith Kumar**
-[LinkedIn](#) | [GitHub](#)
+[LinkedIn](#) | [https://github.com/poojithkumar29/Sales-Dashboard.git](#)
 
 ## 📝 License
 
